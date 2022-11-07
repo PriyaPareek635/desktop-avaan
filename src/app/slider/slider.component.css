@@ -1,0 +1,135 @@
+a {
+  text-decoration:none;
+  color: #FFFFFF;
+}
+.footer {
+  position: absolute;
+  top: 795px;
+  bottom: 0;
+  z-index: 99;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  transition: all 0.2s ease;
+  opacity: 1;
+  background: #095d59 0% 0% no-repeat padding-box;
+  text-align: right;
+}
+.mL-100 {
+  margin-left: -100px;;
+}
+.slider-header {
+  text-align: center;
+  font-family: Recoleta;
+  font-size: 36px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-bottom: 21.5px;
+  margin-top: 140.5px;
+}
+.img-mR {
+  margin-right: 16px;
+}
+.slider-subheader {
+  text-align: center;
+  font-family: Avenir;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.green-text {
+  color:#00BD71;
+}
+.slider-margin {
+  margin: 43px 322px 97.5px;
+  overflow: auto;
+}
+.mR-16 {
+  margin-right: 16px;
+}
+.card-common {
+  letter-spacing: 1px;
+  color: #095D59;
+  opacity: 1;
+  text-align: left;
+  margin-right: 16px;
+}
+.img-header {
+  font: normal normal 900 10px/30px Avenir;
+}
+.img-subheader {
+  font: normal normal medium 10px/30px Avenir;
+}
+.mT-10 {
+  margin-top: 10px;
+}
+.consult-type-price {
+  font: normal normal 900 16px/25px Avenir;
+}
+.consult-time-slot {
+  font: normal normal medium 16px/30px Avenir;
+}
+.show-all-times {
+  font: normal normal medium 14px/30px Avenir;
+  color: #00BD71;
+}
+.time-color {
+  font: normal normal 900 16px/22px Avenir;
+}
+.hr {
+  font: normal normal 300 16px/25px Avenir;
+}
+hr {
+  display: block;
+  height: 0px;
+  border: 1px solid #095D59;
+  padding: 0;
+  margin: 7px 0px;
+  opacity: 1;
+}
+.consult-available-slot {
+  margin: 13px 6px 0px 0px;
+  width: 75px;
+  height: 30px;
+  background: #F5F5F5 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  letter-spacing: -0.26px;
+  opacity: 1;
+  padding: 9px 14px;
+}
+.img-rating {
+  font: normal normal 900 10px/16px Avenir;
+  letter-spacing: 0px;
+  color: #FFC400;
+  opacity: 1;
+}
+.slider-image-section {
+  width: 350px;
+  height: 201px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #0000001A;
+  border-radius: 12px;
+  opacity: 1;
+  padding: 9px 10px 11px 11px;
+}
+.slider-time-slots {
+  width: 100px;
+  height: 40px;
+  background: #F5F5F5 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+}
+.list-with-us {
+  background: #fd896b;
+  text-align: center;
+  font: normal normal 900 16px/22px Avenir;
+  letter-spacing: 0px;
+  opacity: 1;
+  border-radius: 23px;
+  color: #FFFFFF;
+  padding: 9px 33px;
+  width: 275px;
+  margin: auto;
+}
