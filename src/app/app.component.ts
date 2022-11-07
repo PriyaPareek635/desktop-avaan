@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
     <!-- loading the components here -->
     <app-header></app-header>
     <app-body-content></app-body-content>
+    <app-slider></app-slider>
   `,
   styleUrls: ['./app.component.css']
 })
